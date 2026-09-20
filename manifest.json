@@ -1,8 +1,15 @@
 {
-  "name": "Sochi's Website",
+  "name": "Hi I'm Sochi!",
   "short_name": "Sochi",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ff69b4",
-  "theme_color": "#ff69b4"
+  "theme_color": "#ff69b4",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
